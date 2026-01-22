@@ -1,0 +1,14 @@
+{
+  "name": "testfolder",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zara",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
